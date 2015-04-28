@@ -15,5 +15,35 @@ namespace Loan_Manager
         {
             InitializeComponent();
         }
+
+        private void iTalk_Button_27_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void iTalk_MenuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void iTalk_ThemeContainer1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void transactionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void paymentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
