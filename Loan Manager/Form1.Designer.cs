@@ -159,7 +159,6 @@
             this.txt_user.ReadOnly = false;
             this.txt_user.Size = new System.Drawing.Size(266, 41);
             this.txt_user.TabIndex = 0;
-            this.txt_user.Text = "Username";
             this.txt_user.TextAlignment = System.Windows.Forms.HorizontalAlignment.Left;
             this.txt_user.UseSystemPasswordChar = false;
             // 

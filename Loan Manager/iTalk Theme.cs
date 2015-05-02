@@ -837,7 +837,7 @@ public class iTalk_ThemeContainer : ContainerControl
     protected override void OnCreateControl()
     {
         base.OnCreateControl();
-        this.ParentForm.FormBorderStyle = FormBorderStyle.None;
+       // this.ParentForm.FormBorderStyle = FormBorderStyle.None;
         this.ParentForm.TransparencyKey = Color.Fuchsia;
     }
 

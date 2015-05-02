@@ -9,6 +9,7 @@ namespace Loan_Manager
     {
         public static string MyConnectionString = "Server=localhost;Database=loans;Uid=root;Pwd=;";
 
-
+        public static string CurrentAdmin = "";
+        
     }
 }
